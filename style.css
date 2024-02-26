@@ -8,6 +8,7 @@
 body {
     max-width: 100%;
     min-height: 100vh;
+    overflow: hidden;
 
     background-image: url(img/istockphoto-1138429558-612x612\ 2.png);
     background-position: center;
